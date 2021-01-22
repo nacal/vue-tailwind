@@ -7767,6 +7767,13 @@ table@^5.2.3:
     slice-ansi "^2.1.0"
     string-width "^3.0.0"
 
+tailwindcss-transitions@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/tailwindcss-transitions/-/tailwindcss-transitions-2.2.0.tgz#73dd0122ce6d30575d98921fe795b8e290c96790"
+  integrity sha512-yI8nzJL8EOXdXECQDVDFBQ89yNhqYuAzltwgHEjU+0R5TZAfIfA4DEtvdVbBMmvAgYOGMhm0D/7zPfc7Wl3MSg==
+  dependencies:
+    lodash "^4.17.15"
+
 tapable@^1.0.0, tapable@^1.1.3:
   version "1.1.3"
   resolved "https://registry.npm.taobao.org/tapable/download/tapable-1.1.3.tgz?cache=0&sync_timestamp=1607089137515&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftapable%2Fdownload%2Ftapable-1.1.3.tgz#a1fccc06b58db61fd7a45da2da44f5f3a3e67ba2"

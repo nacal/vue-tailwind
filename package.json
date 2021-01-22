@@ -13,6 +13,7 @@
     "core-js": "^3.6.5",
     "postcss": "^7",
     "tailwindcss": "yarn:@tailwindcss/postcss7-compat",
+    "tailwindcss-transitions": "^2.2.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {

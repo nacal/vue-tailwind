@@ -22,7 +22,7 @@
         </a>
       </div>
       <div>
-        <a href="#" class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-gray-700 hover:bg-gray-200 mt-4 lg:mt-0">Download</a>
+        <a href="#" class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-gray-700 hover:bg-gray-200 transition-all mt-4 lg:mt-0">Download</a>
       </div>
     </div>
   </nav>
